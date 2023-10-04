@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> - About Me</title>
+</head>
+<body>
+        <h1><strong> MY PHOTO </strong></h1>
+        <p1><img src="kavita.jpg"></p1>
+            <caption><strong>STUDENT</strong></caption>
+            <table>
+                <tr>
+        <th>first name </th>
+        <th>last name</th>
+        <th>age </th>
+        <th.number/th>
+           </tr>
+          </tr>
+                <td>Kavita</td>
+                <td>Kavita</td>
+                <td>19</td>
+                <td>90541122841</td>
+        </tr>
+       </table> 
+            <h2><strong>HOBBIES</strong></h2>    
+            <ol>
+                <li>reading books</li>
+                <li>listening music</li>
+                <li>cooking</li>
+            </ol>    
+    </body>
+
+
+</html>
